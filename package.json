@@ -1,0 +1,22 @@
+{
+  "name": "keeva",
+  "version": "1.0.0",
+  "description": "Third Party Script",
+  "main": "keeva.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moore82/Keeva.git"
+  },
+  "keywords": [
+    "Keeva"
+  ],
+  "author": "David Moore & Sergejs Radkevics",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moore82/Keeva/issues"
+  },
+  "homepage": "https://github.com/moore82/Keeva#readme"
+}
